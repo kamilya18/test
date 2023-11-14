@@ -1,0 +1,22 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+h1 {
+    color:aquamarine;
+    font-size: 24px;
+    cursor:pointer;
+    transition:all 0.3s ease-in-out;
+}
+h1:hover {
+    color:blue
+}
+
+img {
+    border-radius: 50%;
+}
+main {
+    background-color: antiquewhite;
+}
+.title {
+    font-size: 20px;
+}
